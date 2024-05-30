@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "Project_HoverGameMode.h"
-#include "Project_HoverCharacter.h"
+#include "..\Public\MyHoverCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 AProject_HoverGameMode::AProject_HoverGameMode()
